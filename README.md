@@ -198,7 +198,7 @@ gcp-slack-agent-market-summary/
 │   ├── deploy_app.sh                # Build, deploy Cloud Run + setup Scheduler
 │   └── destroy_app.sh               # Tear down all cloud resources
 │
-└── 📖 README.md                     # ← You are here
+└── 📖 README.md                     
 ```
 
 ---
