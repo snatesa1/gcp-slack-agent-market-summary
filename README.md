@@ -1,5 +1,3 @@
-<![CDATA[<div align="center">
-
 # 📈 GCP Slack Agent — Market Summary
 
 ### *A production-grade, serverless AI agent that delivers daily Bloomberg market briefings to Slack*
@@ -13,8 +11,6 @@
 ---
 
 *Automatically discovers the latest Bloomberg Markets YouTube videos, extracts transcripts, summarizes them with Gemini AI, and delivers structured "Market Quick Takes" to your Slack channel — every day at 7:00 PM SGT.*
-
-</div>
 
 ---
 
@@ -691,4 +687,3 @@ This project is for educational and personal use. Bloomberg Markets content is p
 **⭐ Star this repo if you found it useful!**
 
 </div>
-]]>
